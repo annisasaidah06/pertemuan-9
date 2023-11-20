@@ -1,4 +1,5 @@
 # pertemuan-9
+# Latihan 9
 
 # Buat list dengan 5 elemen list_a = [10, 20, 30, 40, 50]
 Akses list

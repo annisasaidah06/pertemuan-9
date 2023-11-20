@@ -32,6 +32,7 @@ Gabungkan list B dengan list A
 list_c = list_a + list_b print("List setelah menggabungkan list A dan B:", list_c)
 
 PRAKTIKUM9
+
 from prettytable import PrettyTable
 def hitung_nilai_akhir(tugas, uts, uas): nilai_akhir = 0.3 * tugas + 0.35 * uts + 0.35 * uas return nilai_akhir
 

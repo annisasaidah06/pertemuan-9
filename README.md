@@ -68,3 +68,7 @@ print("\nDaftar Nilai Mahasiswa:") print(tabel)
 
 ![Screenshot (25)](https://github.com/annisasaidah06/pertemuan-9/assets/148035766/142d1378-6012-4959-abd4-4d2fe906aee8)
 
+# flowchart
+![Capture](https://github.com/annisasaidah06/pertemuan-9/assets/148035766/1e792350-8c72-449f-a717-514e17f0db0c)
+
+
